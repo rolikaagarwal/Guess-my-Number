@@ -7,7 +7,6 @@
 
 ## Project Initialization
 
-- Download node package From [nodejs.org](https://nodejs.org/en/download/)
 
 - Fork the repo to your Github.
 
